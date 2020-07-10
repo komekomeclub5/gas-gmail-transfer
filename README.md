@@ -1,2 +1,4 @@
 # gas-gmail-transfer
 GoogleAppsScriptでGmailをLINEに転送する
+
+大学のメールをあまり見ないのでLINEに転送して確認しやすくしました。
